@@ -88,9 +88,3 @@
   }
 
 }
-
-@media only screen and (max-width:520px) {
-  #logo h2 {
-    visibility: hidden;
-  }
-}
