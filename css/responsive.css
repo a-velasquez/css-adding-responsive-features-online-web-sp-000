@@ -40,7 +40,7 @@
   }
 }
 
-@media only screen and (max-width:750px){
+@media only screen and (max-width:770px){
   #navbar nav a{
     font-size: 0.9em;
   }
